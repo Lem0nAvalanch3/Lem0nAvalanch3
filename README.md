@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lem0n!
+- 👋 Hi, I’m Jake!
 - 👀 I’m interested in IoT and Software Engineering.
-- 🌱 I’m currently learning more about C# and Java.
+- 🌱 I’m currently learning more about Python.
 - 💞️ I’m not looking for anymore projects at the moment.
 - 📫 You can reach me at my email: Lem0navalanch3@gmail.com
 
